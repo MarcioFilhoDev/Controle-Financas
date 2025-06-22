@@ -17,14 +17,9 @@ Este aplicativo foi desenvolvido em React Native com o objetivo de auxiliar os u
 
 💾 Salvamento local dos dados com AsyncStorage
 
-📱 Interface responsiva e amigável, com suporte ao teclado em iOS e Android
-
-🔄 Feedback de carregamento com ActivityIndicator
-
 🧠 Tecnologias Utilizadas
 
 - React Native e Expo
-- 
 - AsyncStorage para persistência local
 
 🔮 Futuras Incrementações
@@ -34,10 +29,7 @@ Permitindo que o usuário selecione ou insira a data da despesa, e também edite
 
 🧭 Filtros de visualização
 
-Por data (ex: gastos de um dia específico, semana ou mês)
-
-Por intervalo de datas (ex: de 01/06 até 15/06)
-
-Por tipo (ex: apenas “pessoal” ou “amigo”)
-
-Por valores (ex: maiores que R$ 100, menores que R$ 50, etc.)
+- Por data (ex: gastos de um dia específico, semana ou mês)
+- Por intervalo de datas (ex: de 01/06 até 15/06)
+- Por tipo (ex: apenas “pessoal” ou “amigo”)
+- Por valores (ex: maiores que R$ 100, menores que R$ 50, etc.)
