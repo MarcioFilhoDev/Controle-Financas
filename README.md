@@ -2,12 +2,11 @@
 Este aplicativo foi desenvolvido em React Native com o objetivo de auxiliar os usuários a registrarem e acompanharem seus gastos diários, categorizando-os por tipo e mantendo um histórico persistente, mesmo após fechar o app.
 
 🚀 Funcionalidades
+
 📌 Cadastro de gastos com:
 
 - Descrição
-
 - Valor
-
  - Tipo (ex: pessoal, amigo, trabalho, etc...)
 
 ✏️ Edição de gastos já cadastrados
