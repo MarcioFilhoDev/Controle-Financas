@@ -1,4 +1,4 @@
-💸 ##App de Controle de Gastos Pessoais – React Native
+💸 App de Controle de Gastos Pessoais – React Native
 Este aplicativo foi desenvolvido em React Native com o objetivo de auxiliar os usuários a registrarem e acompanharem seus gastos diários, categorizando-os por tipo e mantendo um histórico persistente, mesmo após fechar o app.
 
 🚀 Funcionalidades
@@ -27,14 +27,14 @@ Este aplicativo foi desenvolvido em React Native com o objetivo de auxiliar os u
 - 
 - AsyncStorage para persistência local
 
-🔮 Futuras Incrementações - recursos planejados para as próximas versões do aplicativo:
+🔮 Futuras Incrementações
 
 📆 Inserção manual da data
-Permitir que o usuário selecione ou insira a data da despesa, em vez de usar apenas a data atual automaticamente.
+Permitindo que o usuário selecione ou insira a data da despesa, e também edite.
 
 🧭 Filtros de visualização
 
-Por data (ex: mostrar gastos de um único dia, semana ou mês)
+Por data (ex: gastos de um dia específico, semana ou mês)
 
 Por intervalo de datas (ex: de 01/06 até 15/06)
 
