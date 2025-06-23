@@ -149,7 +149,7 @@ export default function App() {
 
   if (loading) {
     return (
-      <View style={{ flex: 1, height: "100%" }}>
+      <View style={{ flex: 1, height: "100%", justifyContent: "center" }}>
         <ActivityIndicator size={60} color={"#065f46"} />
       </View>
     );
@@ -161,7 +161,10 @@ export default function App() {
       behavior={Platform.OS === "ios" ? "padding" : undefined}
       keyboardVerticalOffset={Platform.OS === "ios" ? 60 : 0}
     >
-      <TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
+      <TouchableWithoutFeedback
+        onPress={() => Keyboard.dismiss()}
+        touchSoundDisabled={true}
+      >
         <View style={st.background}>
           <View style={st.container}>
             <StatusBar hidden={true} />

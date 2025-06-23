@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "Financeiro",
-    "slug": "Financeiro",
+    "slug": "financeiro",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "/src/assets/playstore.png",
+    "icon": "./src/assets/playstore.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "/src/assets/playstore.png",
+      "image": "./src/assets/playstore.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,14 +17,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "/src/assets/playstore.png",
+        "foregroundImage": "./src/assets/playstore.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.financeiro"
     },
     "web": {
-      "favicon": "/src/assets/playstore.png"
+      "favicon": "./src/assets/playstore.png"
     },
     "extra": {
       "eas": {
